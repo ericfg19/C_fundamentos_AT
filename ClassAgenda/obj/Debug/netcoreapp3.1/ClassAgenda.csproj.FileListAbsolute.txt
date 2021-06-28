@@ -1,0 +1,9 @@
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\bin\Debug\netcoreapp3.1\ClassAgenda.deps.json
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\bin\Debug\netcoreapp3.1\ClassAgenda.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\bin\Debug\netcoreapp3.1\ClassAgenda.pdb
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\obj\Debug\netcoreapp3.1\ClassAgenda.AssemblyInfoInputs.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\obj\Debug\netcoreapp3.1\ClassAgenda.AssemblyInfo.cs
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\obj\Debug\netcoreapp3.1\ClassAgenda.csproj.CoreCompileInputs.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\obj\Debug\netcoreapp3.1\ClassAgenda.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\obj\Debug\netcoreapp3.1\ClassAgenda.pdb
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\ClassAgenda\obj\Debug\netcoreapp3.1\ClassAgenda.csprojAssemblyReference.cache

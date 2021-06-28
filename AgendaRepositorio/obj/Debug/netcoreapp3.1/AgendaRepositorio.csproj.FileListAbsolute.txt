@@ -1,0 +1,12 @@
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\bin\Debug\netcoreapp3.1\ClassAgenda.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\obj\Debug\netcoreapp3.1\AgendaRepositorio.csprojAssemblyReference.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\obj\Debug\netcoreapp3.1\AgendaRepositorio.AssemblyInfoInputs.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\obj\Debug\netcoreapp3.1\AgendaRepositorio.AssemblyInfo.cs
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\bin\Debug\netcoreapp3.1\AgendaRepositorio.deps.json
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\bin\Debug\netcoreapp3.1\AgendaRepositorio.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\bin\Debug\netcoreapp3.1\AgendaRepositorio.pdb
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\bin\Debug\netcoreapp3.1\ClassAgenda.pdb
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\obj\Debug\netcoreapp3.1\AgendaRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\obj\Debug\netcoreapp3.1\AgendaRepositorio.csproj.CopyComplete
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\obj\Debug\netcoreapp3.1\AgendaRepositorio.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\Fundamentos C .NET\Agenda_Amigos_AT\ClasseAgenda\AgendaRepositorio\obj\Debug\netcoreapp3.1\AgendaRepositorio.pdb
